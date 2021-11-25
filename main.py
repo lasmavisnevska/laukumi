@@ -44,6 +44,7 @@ def paralelograms():
   laukums3 = malas_garums * augstums
   print(laukums3)
 
-figura = int(input('ievadi izvēlēto figūras saīsinājumu, kurus vēlies aprēkināt'))
+figura = int(input('ievadi izvēlēto figūcras saīsinājumu, kurus vēlies aprēkināt'))
+
 
 
