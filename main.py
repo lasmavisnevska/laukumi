@@ -21,4 +21,7 @@ def kvadrats():
   print(laukums5)
 
 def rinkis():
-  a = int(input("Ievadi riņķa pī")
+  a = 3.14
+  b = int(input("Ievadi riņķa rādiusu"))
+  laukums6 = a*(b*b)
+  print(laukums6)
